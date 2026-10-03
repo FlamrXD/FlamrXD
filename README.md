@@ -11,7 +11,7 @@ Lead (and only) Dev @ [inet-andeonic](https://inet-tech.net/)
 
 Preferred OSes:
 
-![Windows 11](https://img.shields.io/badge/Windows%2011-%230079d5.svg?style=for-the-badge&logo=Windows%2011&logoColor=white) ![](https://img.shields.io/badge/-&-informational?logo=&style=for-the-badge&logoColor=000000&color=000000&labelColor=000000) ![Arch](https://img.shields.io/badge/Arch%20Linux-1793D1?logo=arch-linux&logoColor=fff&style=for-the-badge) ![](https://img.shields.io/badge/-user-informational?logo=&style=for-the-badge&logoColor=000000&color=b96100&labelColor=000000)
+![Windows 11](https://img.shields.io/badge/Windows%2011-%230079d5.svg?style=for-the-badge&logo=Windows%2011&logoColor=white) ![](https://img.shields.io/badge/-&-informational?logo=&style=for-the-badge&logoColor=000000&color=000000&labelColor=000000) ![Arch](https://img.shields.io/badge/Arch%20Linux-1793D1?logo=arch-linux&logoColor=fff&style=for-the-badge)
 
 
 ## Socials
