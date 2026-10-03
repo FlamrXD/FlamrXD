@@ -1,6 +1,6 @@
 # flamr
-[![website](https://img.shields.io/badge/-Website-informational?logo=firefox&style=for-the-badge&logoColor=ff9117&color=ea5e00&labelColor=ffffff 'website')](https://flamr.pages.dev)
 ## About me :) 
+[![website](https://img.shields.io/badge/-Website-informational?logo=firefox&style=for-the-badge&logoColor=ff9117&color=ea5e00&labelColor=ffffff 'website')](https://flamr.pages.dev)
 
 Lead (and only) Dev @ [inet-andeonic](https://inet-tech.net/)
 
