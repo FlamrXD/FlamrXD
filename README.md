@@ -1,5 +1,5 @@
 # flamr
-[![website](https://img.shields.io/badge/-Website-informational?logo=firefox&style=for-the-badge&logoColor=ff9117&color=ea5e00&labelColor=ffffff 'website')](https://flamr.pages.dev) [![e](https://img.shields.io/badge/-Modrinth-informational?logo=modrinth&style=for-the-badge&logoColor=00661f&color=00661f&labelColor=000000)](https://modrinth.com/organization/flamin-creations)
+[![website](https://img.shields.io/badge/-Website-informational?logo=firefox&style=for-the-badge&logoColor=ff9117&color=ea5e00&labelColor=ffffff 'website')](https://flamr.pages.dev)
 ## ABOUT ME: 
 
 Lead (and only) Dev @ [inet-andeonic](https://inet-tech.net/)
